@@ -50,9 +50,9 @@ These datasets contain reviews about businesses from Google Local (Google Maps).
 ```
 
 ## Download links
-- Places Data (276mb)
-- User Data (178mb)
-- Review Data (1.4gb)
+- ![Places Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/places.clean.json.gz) (276mb)
+- ![User Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/users.clean.json.gz) (178mb)
+- ![Review Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/reviews.clean.json.gz) (1.4gb)
 
 ## Citation
 Please cite the following if you use the data:
