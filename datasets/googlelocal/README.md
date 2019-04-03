@@ -1,4 +1,4 @@
-<img src="https://github.com/data-science-student-society/datathon2019/blob/master/images/googlelocal.png" alt="drawing" width="500"/>
+<img src="https://github.com/data-science-student-society/datathon2019/blob/master/images/googlelocal.png" alt="drawing" width="350"/>
 
 ## Google Local Reviews
 These datasets contain reviews about businesses from Google Local (Google Maps). Data includes geographic information for each business as well as reviews.
