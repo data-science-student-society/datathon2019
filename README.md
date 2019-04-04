@@ -3,6 +3,16 @@
 # DS3: Datathon 2019
 Sample tutorial source code and dataset instructions for the datathon
 
+## Datasets
+
+## Workshop
+- Description
+
+## How to submit 
+- How long the pdfs should be
+
+## Judges
+
 ## Sponsors
 
 We would like to thank all our sponsors for making this event possible. 
