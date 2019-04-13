@@ -63,7 +63,11 @@ Useful functions: Please see the numpy cheatsheet.
 3. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 4. https://www.tutorialspoint.com/seaborn/index.htm
 
+# Data Science Tutorial (from COGS108)
+https://github.com/COGS108/Tutorials
+
 # Acknowledgments
 
 * https://www.datacamp.com/community/blog/python-numpy-cheat-sheet
 * Stanford cs231n course website http://cs231n.github.io/python-numpy-tutorial/
+* COGS108 course Github
