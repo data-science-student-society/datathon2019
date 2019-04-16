@@ -32,8 +32,7 @@ Come out to ERC Room at 12 pm to listen in on StubHub's workshop on Machine Lear
 Come out to ERC Room at 2 pm to join in on Lyft’s tech talk on experimentation in Data Science.
 
 ## How to submit 
-TODO
-- How long the pdfs should be
+- Devpost links TODO
 
 ## Judges
 TODO
