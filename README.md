@@ -16,8 +16,8 @@ For specifics about the datasets please click on the datasets folder and find th
 ### :star: Google Local Workshop
 Come out to Bear Room at 10 am to learn about the Google Local dataset and how your team can get started with working on this dataset. Also ask any questions you have about the dataset. 
 
-### :star: Hurricane Workshop
-Come out to Red Shoe Room at 10 am to learn more about the Florida Hurricans dataset. Also ask any questions you have about the dataset. 
+### :star: Traffic Workshop
+Come out to Red Shoe Room at 10 am to learn more about the Traffic Collisions dataset. Also ask any questions you have about the dataset. 
 
 ### :star: Microsoft Workshop
 Come out to ERC Room at 10 am to learn about Microsoft’s dataset and how to use the Azure API to work on real-world data.
