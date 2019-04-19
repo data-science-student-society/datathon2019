@@ -32,7 +32,24 @@ Come out to ERC Room at 12 pm to listen in on StubHub's workshop on Machine Lear
 Come out to ERC Room at 2 pm to join in on Lyft’s tech talk on experimentation in Data Science.
 
 ## How to submit 
-- Devpost links TODO
+You will need to make PDF submission file which must contain the following subheaders:
+- TODO
+
+To  submit your project for a prize you will need to submit using the appropriate links below. In order to contest for the prizes you should submit to EACH of the following links that apply:
+
+- Google Local Reviews submissions ![here](https://ds3datathon-dataset1.devpost.com)
+- Traffic Collisions submissions ![here](https://ds3datathon-dataset2.devpost.com)
+- Microsoft Image classification submissions ![here](http://kaggle.com)
+- Omnisci platform submissions ![here](https://ds3datathon-omnisci.devpost.com)
+
+**NOTE**: Submissions must be made before 7 pm to count
+
+## Judging Criteria Outline
+- Impact
+- Data Analysis and Insight
+- Novelty and Performance
+- Presentation
+- Vision
 
 ## Sponsors
 
