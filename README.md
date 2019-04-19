@@ -34,9 +34,6 @@ Come out to ERC Room at 2 pm to join in on Lyft’s tech talk on experimentation
 ## How to submit 
 - Devpost links TODO
 
-## Judges
-TODO
-
 ## Sponsors
 
 We would like to thank all our sponsors for making this event possible. 
