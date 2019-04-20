@@ -43,8 +43,8 @@ You will need to make PDF submission file. To  submit your project for a prize y
 
 ## Judging Criteria Outline
 - Impact
-- Data Analysis and Insight
-- Novelty and Performance
+- Data Analysis & Visualization
+- Creativity & Innovation
 - Presentation
 - Vision
 
