@@ -10,6 +10,3 @@ This dataset contains animal images with around 40 different categories. Data in
 ## Possible Tasks:
 - Breed classification
 - Cat/Dog Classification
-
-## Download links
-- Please go to the google drive to get the dataset, or use the USB drive.
