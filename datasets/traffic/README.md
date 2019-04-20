@@ -57,16 +57,3 @@ eastbound_count, westbound_count, total_count, file_no, count_date
 ## Possible Tasks:
 - Participants will have the option to explore both datasets individually or try to combine the two
 sources to build a bigger picture of the effects of traffic on car crashes.
-
-## Download links
-- [Traffic Collisions](http://seshat.datasd.org/pd/pd_collisions_datasd.csv)
-- [Traffic Collisions Dictionary](http://seshat.datasd.org/pd/pd_collisions_dictionary_datasd.csv)
-- [Traffic Counts](http://seshat.datasd.org/traffic_counts/traffic_counts_datasd.csv)
-- [Traffic Counts Dictionary](http://seshat.datasd.org/traffic_counts/traffic_counts_dictionary_datasd.csv)
-
-## Citation
-Please cite the following if you use the data:
-
-https://data.sandiego.gov/datasets/traffic-volumes/
-
-*Data SD*
