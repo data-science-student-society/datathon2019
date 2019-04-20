@@ -10,17 +10,3 @@ This dataset contains animal images with around 40 different categories. Data in
 ## Possible Tasks:
 - Breed classification
 - Cat/Dog Classification
-
-## Download links
-- [Images](http://www.robots.ox.ac.uk/~vgg/data/pets/data/images.tar.gz) (791.3mb)
-- [Groundtruth Data](http://www.robots.ox.ac.uk/~vgg/data/pets/data/annotations.tar.gz) (38mb)
-
-If you download the images yourself, you don't need to care about the .mat files in the 'images' directory.
-
-## Citation
-Please cite the following if you use the data:
-
-http://www.robots.ox.ac.uk/~vgg/data/pets/
-
-*Visual Geometry Group
-Department of Engineering Science, University of Oxford*
