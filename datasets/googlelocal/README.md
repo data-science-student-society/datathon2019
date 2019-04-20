@@ -54,11 +54,6 @@ These datasets contain reviews about businesses from Google Local (Google Maps).
 - Create a recommendation system for users that can recommend the top N businesses for each user
 - Analyze the effect of the range of business hours on the ratings of businesses
 
-## Download links
-- [Places Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/places.clean.json.gz) (276mb)
-- [User Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/users.clean.json.gz) (178mb)
-- [Review Data](http://deepyeti.ucsd.edu/jmcauley/datasets/googlelocal/reviews.clean.json.gz) (1.4gb)
-
 ## Citation
 Please cite the following if you use the data:
 
