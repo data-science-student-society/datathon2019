@@ -39,7 +39,7 @@ To  submit your project for a prize you will need to submit using the appropriat
 
 - Google Local Reviews submissions ![here](https://ds3datathon-dataset1.devpost.com)
 - Traffic Collisions submissions ![here](https://ds3datathon-dataset2.devpost.com)
-- Microsoft Image classification submissions ![here](http://kaggle.com)
+- Microsoft Image classification submissions ![here](https://www.kaggle.com/t/8911188534f2482a9c2af16ba182dbdc)
 - Omnisci platform submissions ![here](https://ds3datathon-omnisci.devpost.com)
 
 **NOTE**: Submissions must be made before 7 pm to count
